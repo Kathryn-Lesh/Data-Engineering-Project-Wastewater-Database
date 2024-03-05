@@ -1,0 +1,195 @@
+site_id,site_name,city,state_abbr,sewershed_pop
+0,Akron Water Reclamation Facility,Akron,OH,365000
+1,Altamonte Springs Regional Water Reclamation Facility,Altamonte Springs,FL,95000
+2,John M. Asplund Water Pollution Control Facility,Anchorage,AK,220000
+3,City of Ann Arbor Wastewater Treatment Plant,Ann Arbor,MI,125000
+4,Aquia Wastewater Treatment Facility,Stafford,VA,100000
+5,City of Bangor Wastewater Treatment Plant,Bangor,ME,40000
+6,South Monmouth Regional Sewerage Authority,Belmar,NJ,52672
+7,Valley Creek Water Reclamation Facility,Bessemer,AL,225000
+8,Big Creek Water Reclamation Facility,Roswell,GA,189593
+9,Dillman Road WWTP,Bloomington,IN,56090
+10,Blue Plains Advanced Wastewater Treatment Plant,Washington,DC,2000000
+11,Deer Island Treatment Plant,Boston,MA,2400000
+12,Cumberland County Utilities Authority,Bridgeton,NJ,50000
+13,The Somerset Raritan Valley Sewerage Authority,Bridgewater,NJ,130000
+14,Brunswick Sewer District,Brunswick,ME,10000
+15,CODIGA,Stanford,CA,10000
+16,Cahaba River Water Reclamation Facility,Birmingham,AL,95000
+17,City of Carmel WWTP,Carmel,IN,86000
+18,Central Valley Water Reclamation Facility,Salt Lake City,UT,600000
+19,Moccasin Bend WWTP,Chattanooga,TN,400000
+20,DELCORA Western Regional Treatment Plant,Chester,PA,220000
+21,City of Clinton,Clinton,IA,29300
+22,Coastal Treatment Plant,Laguna Niguel,CA,48000
+23,City of Coeur d'Alene Water Resource Recovery Facility,Coeur D Alene,ID,50540
+24,Camp Creek Water Reclamation Facility,Atlanta,GA,73821
+25,South Columbus Water Resources Facility,Columbus,GA,278000
+26,Central Contra Costa Sanitary District,Martinez,CA,484800
+27,Coralville Wastewater Treatment Facility,Coralville,IA,23000
+28,DCWT Dallas,Dallas,TX,270000
+29,City of Davis Wastewater Treatment Plant,Davis,CA,68000
+30,City of Dover Wastewater Treatment Facility,Dover,NH,30000
+31,Jeffersonville Downtown WWTP,Jeffersonville,IN,25000
+32,SWBNO East Bank Wastewater Treatment Plant,New Orleans,LA,333406
+33,Eastern Water Reclamation Facility,Orlando,FL,195299
+34,Esparto Wastewater Treatment Facility,Esparto,CA,4006
+35,City of Essex Junction Wastewater Treatment Facility,Essex Junction,VT,30000
+36,Fairfield-Suisun Sewer District,Fairfield,CA,155000
+37,[Fremont Basin] -  Raymond A. Boege Alvarado WWTP,Union City,CA,229476
+38,Five Mile Creek Water Reclamation Facility,Fultondale,AL,77000
+39,City of Gainesville Wastewater Treatment Plant,Gainesville,TX,17300
+40,City of Garland Rowlett Creek WWTP,Garland,TX,200000
+41,2C-Gautier POTW,Gautier,MS,19008
+42,South County Regional Wastewater Authority,Gilroy,CA,110338
+43,Glenbard Wastewater Authority,Glen Ellyn,IL,86000
+44,Mauldin Road WWTP,Greenville,SC,142376
+45,Hagerstown Wastewater Treatment Plant,Hagerstown,MD,90000
+46,Sewer Authority Mid-Coastside,Half Moon Bay,CA,28000
+47,Hall Street Wastewater Treatment Plant,Concord,NH,45000
+48,Capital Region Water AWTF,Harrisburg,PA,125000
+49,City of Harrison Wastewater Treatment Plant,Harrison,AR,15000
+50,Town of Hillsville Wastewater Treatment Plant,Hillsville,VA,3000
+51,Hilo Wastewater Treatment Plant,Hilo,HI,16257
+52,City of Hollister Domestic Water Recycling Facility,Hollister,CA,42000
+53,Hollywood Road WWTP,Amarillo,TX,60000
+54,Marlay Taylor Water Reclamation Facility,Leonardtown,MD,55000
+55,Honouliuli Wastewater Treatment Plant,Honolulu,HI,300000
+56,Valley Sanitary District,Indio,CA,91765
+57,Ithaca Area Wastewater Treatment Facility,Ithaca,NY,90000
+58,JB Latham Treatment Plant,Laguna Niguel,CA,120000
+59,Jackson Wastewater Treatment Plant,Jackson,MI,90000
+60,Grandville Clean Water Plant,Jenison,MI,75000
+61,Johns Creek Environmental Campus,Roswell,GA,84486
+62,Loxahatchee River Environmental Control District,Jupiter,FL,90000
+63,Kailua Regional Wastewater Treatment Plant,Honolulu,HI,90000
+64,Municipal Wastewater Treatment Plant No. 1 (Kaw Point),Kansas City,KS,90000
+65,MDWASD Central District WWTP,Key Biscayne,FL,829725
+66,Johnnie Mosley Regional Water Reclamation Facility,Kinston,NC,25000
+67,Lancaster Water Reclamation Plant,Lancaster,CA,200000
+68,Lander Street Water Renewal Facility,Boise,ID,108556
+69,Las Gallinas Valley Sanitary District,San Rafael,CA,30000
+70,Clark County Water Reclamation District (CCWRD) Flamingo Water Resource Center (FWRC),Las Vegas,NV,990000
+71,Lawrence Kansas River Wastewater Treatment Facility,Lawrence,KS,80000
+72,Lewiston Auburn Water Pollution Control Authority,Lewiston,ME,60000
+73,Little Falls Run Wastewater Treatment Facility,Fredericksburg,VA,50000
+74,Little River Water Reclamation Facility,Roswell,GA,12818
+75,Lompoc Regional Wastewater Reclamation Plant,Lompoc,CA,69290
+76,Joint Water Pollution Control Plant,Carson,CA,3500000
+77,Hyperion Water Reclamation Plant (HWRP),Playa Del Rey,CA,4000000
+78,Los Banos Wastewater Treatment Plant,Los Banos,CA,42000
+79,Morris Forman Water Quality Treatment Center,Louisville,KY,423913
+80,"City of Madera, Wastewater Treatment Plant",Madera,CA,67944
+81,Mammoth Community Water District,Mammoth Lakes,CA,35000
+82,City of Mankato Water Resource Recovery Facility (WRRF),Mankato,MN,70000
+83,Monterey One Water - Regional Treatment Plant,Marina,CA,262000
+84,City of Marshalltown Water Pollution Control Plant,Marshalltown,IA,27400
+85,M.C. Stiles Wastewater Treatment Facility,Memphis,TN,300000
+86,Mendenhall Wastewater Treatment Plant,Juneau,AK,20000
+87,Merced Wastewater Treatment Plant,Merced,CA,91000
+88,Sewerage Agency of Southern Marin Wastewater Treatment Plant,Mill Valley,CA,30000
+89,Upper Blackstone Clean Water,Millbury,MA,250000
+90,Modesto's Sutter Primary Treatment Facility,Modesto,CA,230000
+91,Montpelier Water Resource Recovery Facility,Montpelier,VT,10100
+92,Mt. Pleasant WRRF,Mount Pleasant,MI,21690
+93,Muscatine STP,Muscatine,IA,24400
+94,Soscol Water Recycling Facility,Napa,CA,83300
+95,[Newark Basin] - Raymond A. Boege Alvarado WWTP,Union City,CA,47229
+96,Passaic Valley Sewerage Commission,Newark,NJ,1500000
+97,MDWASD North District WWTF,Miami,FL,776150
+98,North Water Reclamation Facility,Jeffersonville,IN,25000
+99,Parker Water and Sanitation District North Water Reclamation Facility,Parker,CO,35000
+100,Northeast Water Resource Recovery Facility,Lincoln,NE,60000
+101,Northeast Water Reclamation Facility,Saint Petersburg,FL,89847
+102,Northwest Water Reclamation Facility Saint Petersburg,Orlando,FL,66690
+103,Northwest Water Reclamation Facility,Saint Petersburg,FL,94218
+104,Novato Sanitary District,Novato,CA,53000
+105,Township of Ocean Sewerage Authority,Oakhurst,NJ,50000
+106,East Bay Municipal Utility District,Oakland,CA,740000
+107,Oceanside Water Pollution Control Plant,San Francisco,CA,250000
+108,Regional Water Recycling Plant No.1 (RP-1),Ontario,CA,890000
+109,City of Oswego Wastewater Treatment Plant,Oswego,NY,30000
+110,Ottumwa WPCF,Ottumwa,IA,25529
+111,Kansas City Treatment Plant #20,Kansas City,KS,35000
+112,Calera Creek Water Recycling Plant,Pacifica,CA,40000
+113,Palo Alto Regional Water Quality Control Plant,Palo Alto,CA,236000
+114,7 C- Pascagoula Moss Point POTW,Pascagoula,MS,34333
+115,City of Paso Robles Wastewater Treatment Plant,Paso Robles,CA,31037
+116,Penacook Wastewater Treatment Facility,Concord,NH,4000
+117,Ellis Creek Water Recycling Facility,Petaluma,CA,65000
+118,Turkey Creek Water Reclamation Facility,Pinson,AL,30000
+119,Portland Water District (East End Wastewater Treatment Facility),Portland,ME,65000
+120,Provo City Water Reclamation Facility,Provo,UT,115000
+121,RM Clayton Water Reclamation Center,Atlanta,GA,294660
+122,Red Wing Wastewater Treatment Facility,Red Wing,MN,16000
+123,Silicon Valley Clean Water,Redwood City,CA,199000
+124,Regional Treatment Plant,Laguna Niguel,CA,129000
+125,River Road WWTP,Amarillo,TX,140000
+126,Riverside Water Quality Control Plant,Riverside,CA,350000
+127,City Of Rochester MN Water Reclamation Plant,Rochester,MN,120000
+128,Sacramento Regional Wastewater Treatment Plant,Sacramento,CA,1480000
+129,Salina Wastewater Treatment Plant,Salina,KS,47000
+130,E.W. Blom Point Loma Wastewater Treatment Plant,San Diego,CA,2200000
+131,San Jose-Santa Clara Regional Wastewater Facility,San Jose,CA,1500000
+132,City of San Leandro Water Pollution Control Plant,San Leandro,CA,50000
+133,City of San Mateo & Estero M.I.D. Water Quality Control Plant,San Mateo,CA,150000
+134,Central Marin Sanitation Agency,San Rafael,CA,104250
+135,Sand Island Wastewater Treatment Plant,Honolulu,HI,390000
+136,City of Santa Cruz WTF - County Influent,Santa Cruz,CA,160000
+137,City of Santa Cruz WTF - City Influent,Santa Cruz,CA,160000
+138,"City of Santa Rosa, Laguna Treatment Plant",Santa Rosa,CA,230000
+139,Sausalito-Marin City Sanitary District,Sausalito,CA,18000
+140,Seaford Wastewater Treatment Facility,Seaford,DE,13172
+141,City of Snohomish Wastewater Treatment Plant,Snohomish,WA,10150
+142,City of South Bend Wastewater Treatment Plant,South Bend,IN,130000
+143,South Burlington-Airport Parkway WWTF,South Burlington,VT,16000
+144,MDWASD South District WWTF,Miami,FL,920528
+145,South River Water Reclamation Center,Atlanta,GA,105160
+146,South Bay International Wastewater Treatment Plant,San Diego,CA,1600000
+147,South Laredo WWTP,Laredo,TX,120000
+148,South Water Reclamation Facility,Orlando,FL,183009
+149,Parker Water and Sanitation District South Water Reclamation Facility,Parker,CO,25000
+150,Southeast San Francisco,San Francisco,CA,750000
+151,Southside Wastewater Treatment Plant (City of Dallas),Dallas,TX,421700
+152,Hamlin Water Reclamation Facility,Winter Garden,FL,50000
+153,Southwest Water Reclamation Facility,Saint Petersburg,FL,47790
+154,"St. Cloud Nutrient, Energy and Water Recovery Facility",Saint Cloud,MN,120000
+155,"City of Stamford, Water Pollution Control Authority",Stamford,CT,140000
+156,City of Sunnyvale Water Pollution Control Plant,Sunnyvale,CA,153000
+157,Duck Creek Wastewater Treatment Plant,Sunnyvale,TX,186000
+158,TPSmith Water Reclamation Facility,Tallahassee,FL,212065
+159,Theresa Street Water Resource Recovery Facility,Lincoln,NE,240000
+160,Traverse City Regional Waste Water Treatment Plant,Traverse City,MI,30623
+161,Turlock Regional Water Quality Control Facility,Turlock,CA,86000
+162,Bayshore Regional Sewerage Authority,Keyport,NJ,100000
+163,[Union City Basin] - Raymond A. Boege Alvarado WWTP,Union City,CA,68150
+164,University Park Water Reclamation Plant,State College,PA,16000
+165,UC Davis,Davis,CA,0
+166,Utoy Creek Water Reclamation Center,Atlanta,GA,70887
+167,Vallejo Flood and Wastewater District Wastewater Treatment Plant,Vallejo,CA,121000
+168,Village Creek Water Reclamation Facility,Birmingham,AL,200000
+169,Wahiawa Wastewater Treatment Plant,Honolulu,HI,18000
+170,Waianae Wastewater Treatment Plant,Honolulu,HI,44000
+171,City of Warren Wastewater Treatment Plant,Warren,MI,140000
+172,Wausau Waterworks Wastewater Treatment Facility,Wausau,WI,44000
+173,SWBNO West Bank Wastewater Treatment Plant,New Orleans,LA,50591
+174,West Boise Water Renewal Facility,Boise,ID,186901
+175,West County Wastewater District,Richmond,CA,100000
+176,Central Marin Sanitation Agency - West Railroad,San Rafael,CA,25000
+177,Wheaton Sanitary District,Wheaton,IL,63000
+178,"City of Wheeling, Water Pollution Control Division",Wheeling,WV,100000
+179,DCWT White Rock,Dallas,TX,630000
+180,Wichita Falls Resource Recovery Facility,Wichita Falls,TX,90000
+181,City of Wilson - Hominy Creek Water Reclamation Facility,Wilson,NC,50000
+182,"Windsor Wastewater Treatment, Reclamation, and Disposal Facility",Windsor,CA,28000
+183,Archie Elledge WWTP,Winston Salem,NC,92000
+184,Winters - East Street Pump Station,Winters,CA,7286
+185,Wolcott Wastewater Treatment Facility,Kansas City,KS,15000
+186,Woodland Water Pollution Control Facility,Woodland,CA,59000
+187,SJRA WWTF No.1,Spring,TX,65000
+188,SJRA WWTF No.2,Spring,TX,70000
+189,SJRA WWTF No.3,Spring,TX,15000
+190,City of Yankton Wastewater Treatment Facility,Yankton,SD,20000
+191,York Sewer District,York,ME,10000
+192,City of Youngstown Wastewater Treatment Plant,Youngstown,OH,174000
+193,Zacate Creek WWTP,Laredo,TX,140000

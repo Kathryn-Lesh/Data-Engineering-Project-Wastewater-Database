@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/*
+ETL/__pycache__/*
+ETL/config.py
+ETL/.ipynb_checkpoints/*
+
+ETL notebooks/.ipynb_checkpoints/ETL_WWscan-checkpoint.ipynb
+ETL/ETL_WWscan_possibly_latest.ipynb
+ETL notebooks/ETL_WWscan.ipynb

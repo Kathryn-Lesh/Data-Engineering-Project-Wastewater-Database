@@ -1,0 +1,156 @@
+city,state_abbr,county,state_fips,county_fips
+Anchorage,AK,Anchorage Municipality,02,020
+Juneau,AK,Juneau City and Borough,02,110
+Birmingham,AL,Jefferson County,01,073
+Fultondale,AL,Jefferson County,01,073
+Pinson,AL,Jefferson County,01,073
+Bessemer,AL,Jefferson County,01,073
+Harrison,AR,Boone County,05,009
+Hollister,CA,San Benito County,06,069
+Turlock,CA,Stanislaus County,06,099
+San Francisco,CA,San Francisco County,06,075
+Ontario,CA,San Bernardino County,06,071
+Gilroy,CA,Santa Clara County,06,085
+Vallejo,CA,Solano County,06,095
+Oakland,CA,Alameda County,06,001
+Pacifica,CA,San Mateo County,06,081
+Richmond,CA,Contra Costa County,06,013
+Half Moon Bay,CA,San Mateo County,06,081
+Novato,CA,Marin County,06,041
+Mammoth Lakes,CA,Mono County,06,051
+Union City,CA,Alameda County,06,001
+Napa,CA,Napa County,06,055
+Lancaster,CA,Los Angeles County,06,037
+San Rafael,CA,Marin County,06,041
+Modesto,CA,Stanislaus County,06,099
+Lompoc,CA,Santa Barbara County,06,083
+Carson,CA,Los Angeles County,06,037
+Playa Del Rey,CA,Los Angeles County,06,037
+Los Banos,CA,Merced County,06,047
+Mill Valley,CA,Marin County,06,041
+Madera,CA,Madera County,06,039
+Merced,CA,Merced County,06,047
+Marina,CA,Monterey County,06,053
+Indio,CA,Riverside County,06,065
+Fairfield,CA,Solano County,06,095
+Palo Alto,CA,Santa Clara County,06,085
+Sunnyvale,CA,Santa Clara County,06,085
+Riverside,CA,Riverside County,06,065
+Windsor,CA,Sonoma County,06,097
+Esparto,CA,Yolo County,06,113
+Stanford,CA,Santa Clara County,06,085
+Laguna Niguel,CA,Orange County,06,059
+San Diego,CA,San Diego County,06,073
+San Jose,CA,Santa Clara County,06,085
+San Leandro,CA,Alameda County,06,001
+Winters,CA,Yolo County,06,113
+San Mateo,CA,San Mateo County,06,081
+Santa Cruz,CA,Santa Cruz County,06,087
+Santa Rosa,CA,Sonoma County,06,097
+Redwood City,CA,San Mateo County,06,081
+Sausalito,CA,Marin County,06,041
+Davis,CA,Yolo County,06,113
+Petaluma,CA,Sonoma County,06,097
+Paso Robles,CA,San Luis Obispo County,06,079
+Woodland,CA,Yolo County,06,113
+Martinez,CA,Contra Costa County,06,013
+Sacramento,CA,Sacramento County,06,067
+Parker,CO,Douglas County,08,035
+Stamford,CT,Fairfield County,09,001
+Washington,DC,District of Columbia,11,001
+Seaford,DE,Sussex County,10,005
+Saint Petersburg,FL,Pinellas County,12,103
+Altamonte Springs,FL,Seminole County,12,117
+Miami,FL,Miami-Dade County,12,086
+Jupiter,FL,Palm Beach County,12,099
+Key Biscayne,FL,Miami-Dade County,12,086
+Winter Garden,FL,Orange County,12,095
+Orlando,FL,Orange County,12,095
+Tallahassee,FL,Leon County,12,073
+Roswell,GA,Fulton County,13,121
+Columbus,GA,Muscogee County,13,215
+Atlanta,GA,Fulton County,13,121
+Hilo,HI,Hawaii County,15,001
+Honolulu,HI,Honolulu County,15,003
+Muscatine,IA,Muscatine County,19,139
+Ottumwa,IA,Wapello County,19,179
+Coralville,IA,Johnson County,19,103
+Marshalltown,IA,Marshall County,19,127
+Clinton,IA,Clinton County,19,045
+Boise,ID,Ada County,16,001
+Coeur D Alene,ID,Kootenai County,16,055
+Glen Ellyn,IL,DuPage County,17,043
+Wheaton,IL,DuPage County,17,043
+South Bend,IN,St. Joseph County,18,141
+Bloomington,IN,Monroe County,18,105
+Jeffersonville,IN,Clark County,18,019
+Carmel,IN,Hamilton County,18,057
+Lawrence,KS,Douglas County,20,045
+Kansas City,KS,Wyandotte County,20,209
+Salina,KS,Saline County,20,169
+Louisville,KY,Jefferson County,21,111
+New Orleans,LA,Orleans Parish,22,071
+Millbury,MA,Worcester County,25,027
+Boston,MA,Suffolk County,25,025
+Leonardtown,MD,St. Mary's County,24,037
+Hagerstown,MD,Washington County,24,043
+Bangor,ME,Penobscot County,23,019
+Portland,ME,Cumberland County,23,005
+Lewiston,ME,Androscoggin County,23,001
+Brunswick,ME,Cumberland County,23,005
+York,ME,York County,23,031
+Ann Arbor,MI,Washtenaw County,26,161
+Warren,MI,Macomb County,26,099
+Mount Pleasant,MI,Isabella County,26,073
+Traverse City,MI,Grand Traverse County,26,055
+Jenison,MI,Ottawa County,26,139
+Jackson,MI,Jackson County,26,075
+Rochester,MN,Olmsted County,27,109
+Mankato,MN,Blue Earth County,27,013
+Saint Cloud,MN,Stearns County,27,145
+Red Wing,MN,Goodhue County,27,049
+Gautier,MS,Jackson County,28,059
+Pascagoula,MS,Jackson County,28,059
+Winston Salem,NC,Forsyth County,37,067
+Kinston,NC,Lenoir County,37,107
+Wilson,NC,Wilson County,37,195
+Lincoln,NE,Lancaster County,31,109
+Dover,NH,Strafford County,33,017
+Concord,NH,Merrimack County,33,013
+Oakhurst,NJ,Monmouth County,34,025
+Bridgewater,NJ,Somerset County,34,035
+Bridgeton,NJ,Cumberland County,34,011
+Newark,NJ,Essex County,34,013
+Belmar,NJ,Monmouth County,34,025
+Keyport,NJ,Monmouth County,34,025
+Las Vegas,NV,Clark County,32,003
+Oswego,NY,Oswego County,36,075
+Ithaca,NY,Tompkins County,36,109
+Akron,OH,Summit County,39,153
+Youngstown,OH,Mahoning County,39,099
+Chester,PA,Delaware County,42,045
+Harrisburg,PA,Dauphin County,42,043
+State College,PA,Centre County,42,027
+Greenville,SC,Greenville County,45,045
+Yankton,SD,Yankton County,46,135
+Chattanooga,TN,Hamilton County,47,065
+Memphis,TN,Shelby County,47,157
+Spring,TX,Harris County,48,201
+Dallas,TX,Dallas County,48,113
+Wichita Falls,TX,Wichita County,48,485
+Gainesville,TX,Cooke County,48,097
+Laredo,TX,Webb County,48,479
+Amarillo,TX,Potter County,48,375
+Sunnyvale,TX,Dallas County,48,113
+Garland,TX,Dallas County,48,113
+Salt Lake City,UT,Salt Lake County,49,035
+Provo,UT,Utah County,49,049
+Hillsville,VA,Carroll County,51,035
+Fredericksburg,VA,Stafford County,51,179
+Stafford,VA,Stafford County,51,179
+South Burlington,VT,Chittenden County,50,007
+Essex Junction,VT,Chittenden County,50,007
+Montpelier,VT,Washington County,50,023
+Snohomish,WA,Snohomish County,53,061
+Wausau,WI,Marathon County,55,073
+Wheeling,WV,Ohio County,54,069
